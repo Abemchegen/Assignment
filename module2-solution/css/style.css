@@ -2,7 +2,6 @@
 	box-sizing: border-box;
 	margin: 0;
 	font-family: "Times New Romans"
-	background-color: #92d690 ;
 }
 h1 {
 	text-align: center;
@@ -14,7 +13,7 @@ section {
 }
 
 div {
-	background-color: #ebcad6;
+	#51aed6: #ebcad6;
 	border: solid 2px black;
 }
 
