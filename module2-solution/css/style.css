@@ -1,7 +1,8 @@
 * {
 	box-sizing: border-box;
 	margin: 0;
-	font-family: "Times New Romans";
+	font-family: "Times New Romans"
+	background-color: #92d690 ;
 }
 h1 {
 	text-align: center;
@@ -31,15 +32,15 @@ p {
 }
 
 .chicken {
-	background-color: red;
+	background-color: #51aed6;
 }
 
 .beef {
-	background-color: yellow;
+	background-color: #fad673;
 }
 
 .sushi {
-	background-color: violet;
+	background-color: #9872f7;
 }
 
 @media (min-width: 992px) {
