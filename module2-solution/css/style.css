@@ -13,7 +13,7 @@ section {
 }
 
 div {
-	background-color: #ebcad6;
+	background-color: #de87a7;
 	border: solid 2px black;
 }
 
@@ -39,7 +39,7 @@ p {
 }
 
 .sushi {
-	background-color: #9872f7;
+	background-color: #eb072d;
 }
 
 @media (min-width: 992px) {
