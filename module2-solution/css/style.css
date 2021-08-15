@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
 	margin: 0;
-	font-family: Sans-Serif;
+	font-family: Fantasy, Monospace, Sans-serif, ;
 }
 h1 {
 	text-align: center;
@@ -13,7 +13,7 @@ section {
 }
 
 div {
-	background-color: #C0C0C0;
+	background-color: #ccc4c7;
 	border: solid 2px black;
 }
 
